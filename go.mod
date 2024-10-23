@@ -18,9 +18,6 @@ require (
 	github.com/stretchr/testify v1.9.0
 	golang.org/x/sys v0.24.0
 	gopkg.in/yaml.v3 v3.0.1
-)
-
-require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.5 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.37 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.18 // indirect
