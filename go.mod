@@ -3,7 +3,7 @@ module github.com/segmentio/chamber/v3
 go 1.21
 
 require (
-	github.com/alessio/shellescape v1.4.2
+	github.com/alessio/shellescape v1.5.1
 	github.com/aws/aws-sdk-go-v2 v1.31.0
 	github.com/aws/aws-sdk-go-v2/config v1.27.39
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.14
